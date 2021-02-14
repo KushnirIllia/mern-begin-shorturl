@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "Kushnir Corp. the 1 billioner ",
+  "baseUrl": "http://localhost:5000",
+  "mongoUri": "mongodb+srv://IlliaKushnir:d2wJgnGdqP5eXNKc@cluster0.wt4jl.mongodb.net/app?retryWrites=true&w=majority"
+}
